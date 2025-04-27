@@ -1,4 +1,4 @@
-# Hackathon Semarang - Pharos Builder Base Camp
+# BeTheNation.fun - Perpetual Prediction Market
 
 ## Project Description
 
