@@ -1,5 +1,4 @@
-# BeTheNation.Fun - 
- Perpetual Prediction Market
+# BeTheNation.Fun -  Perpetual Prediction Market
 
 ## Project Description
 
