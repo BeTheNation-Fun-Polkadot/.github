@@ -79,6 +79,8 @@ BeTheNation.Fun solves this by combining:
 - 🔧 GitHub: [BeTheNation Repos](https://github.com/orgs/BeTheNation/repositories)
 - 🌐 Website: [bethenation.fun](https://frontend-eight-mu-77.vercel.app)
 - 🛠 Hackathon: [Pharos.xyz](https://pharos.xyz)
+- 🎥 Demo Application: [YouTube Video]()
+- 📊 Presentation: [figma](https://www.figma.com/deck/TuHuBdAIenx2jli1vVD9TK/Slide?node-id=3-121&viewport=-3676%2C-56%2C0.56&t=JISSzZ2uydwcCkDa-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 ---
 
