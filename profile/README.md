@@ -12,23 +12,6 @@ This project is part of the Pharos Builder Base Camp hackathon, focusing on dece
 - **Funding Fee Mechanism**: Every 8 hours, a funding fee is charged or paid to maintain a balanced market between long and short positions.
 - **Liquidity Provider Rewards**: Liquidity providers (LPs) earn rewards from trading fees and funding fees for supporting market liquidity.
 
-## Hackathon Project Criteria
-
-### Theme Focus:
-This project bridges the gap between traditional finance (TradFi) and decentralized finance (DeFi) through perpetual prediction markets based on real-time country economic data. The integration of blockchain technology allows us to provide a transparent and secure platform for data-driven financial speculation.
-
-### Utilizing Pharos Infrastructure:
-The project leverages Pharos' modular stack, including L1Core, L1Extension, and L1Base, to provide fast, scalable, and secure market execution. By utilizing Pharos's infrastructure, we ensure high-speed performance and transaction efficiency.
-
-### Viable Business Potential:
-BeTheNation.Fun has the potential to be a disruptive platform in the DeFi space, offering an innovative way for users to engage in economic forecasting and trade based on real-world data. It creates new investment opportunities in the form of country market prediction, which appeals to both retail traders and institutional investors.
-
-### Alignment with Available Tracks:
-This project fits into the DeFi track, focusing on economic forecasting, perpetual trading, and data-driven financial markets.
-
-### Presentation and Pitch:
-Clear and interactive documentation, an engaging demo of the trading platform, and showcasing its scalability, security, and user experience will be key during judging.
-
 ## Profit Sharing Mechanism
 
 The platform will implement an automated profit-sharing system via smart contracts. Here's the workflow:
