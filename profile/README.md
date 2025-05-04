@@ -12,23 +12,22 @@ BeTheNation.Fun introduces a new type of prediction market: **perpetual, decentr
 
 ---
 
-## 😵 Problem Statement
+## 😵 Problem We Are Solving
 
-Traditional prediction markets suffer from several core issues:
-- ⏳ Short-term focus with fixed expiry dates.
-- ❌ Limited support for macroeconomic data-based markets.
-- 🛑 Centralized decision-making and opaque outcomes.
-- 💸 No reward for long-term speculators or liquidity providers.
+- ⏳ **Limited Flexibility**: Fixed expiry dates force traders to close positions early.
+- 💸 **Risk of Loss**: Positions liquidated, traders lose everything when wrong.
+- 🕒 **Expiration Pressure**: Quick decisions limit long-term predictions.
+- 🔄 **Lack of Engagement**: Fixed expiry leads to disconnected, short-term focus.
 
 ---
 
 ## 💡 Solution
 
-BeTheNation.Fun solves this by combining:
-- 🌀 **Perpetual Markets** – No expiry, trade as long as you want.
-- 📊 **CountryScore Index** – Synthetic score built from real macroeconomic indicators.
-- 🔗 **Smart Contracts** – Fully on-chain automation for trading, fees, and payouts.
-- 🌐 **True Decentralization** – No middlemen, just math and code.
+BeTheNation.Fun offers:
+- 🌀 **Perpetual Markets**: No expiry, hold positions as long as you want.
+- 🚫 **No Liquidation Risk**: No total loss when wrong, adjust positions freely.
+- 📈 **Continuous Trading**: Speculate on long-term trends without deadlines.
+- ⚖️ **Balanced Risk**: Periodic fees keep the market fair and stable.
 
 ---
 
