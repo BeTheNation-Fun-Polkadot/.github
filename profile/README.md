@@ -77,7 +77,7 @@ BeTheNation.Fun solves this by combining:
 ## 🔗 Links
 
 - 🔧 GitHub: [BeTheNation Repos](https://github.com/orgs/BeTheNation/repositories)
-- 🌐 Website (Coming Soon): [bethenation.fun](https://frontend-eight-mu-77.vercel.app)
+- 🌐 Website: [bethenation.fun](https://frontend-eight-mu-77.vercel.app)
 - 🛠 Hackathon: [Pharos.xyz](https://pharos.xyz)
 
 ---
