@@ -10,6 +10,10 @@
 
 BeTheNation.Fun introduces a new type of prediction market: **perpetual, decentralized, and based on economic fundamentals**. Users can trade tokenized representations of country performance — going long or short — based on indicators like inflation, GDP growth, stock indices, and exchange rates. These contracts never expire, allowing positions to be held as long as desired.
 
+Unlike traditional prediction markets where users bet on binary outcomes, BeTheNation.Fun quantifies macroeconomic predictions into tradable indices. For example, instead of predicting "Will interest rates rise?", traders can go long or short on a rate index that reflects central bank decisions. This turns policy speculation into an on-chain asset.
+
+Don’t just bet — trade the future of nations.
+
 ---
 
 ## 😵 Problem We Are Solving
