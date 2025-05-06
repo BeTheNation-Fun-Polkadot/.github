@@ -2,8 +2,6 @@
 
 **BeTheNation.Fun** is a decentralized platform that enables users to speculate on the long-term economic performance of countries through perpetual prediction markets. Built on blockchain technology, the platform offers transparent, permissionless, and automated trading on country-based markets using real economic indicators.
 
-> ⚡ Built for the [Pharos Builder Base Camp Hackathon](https://pharos.xyz)
-
 ---
 
 ## 🧭 Overview
@@ -12,7 +10,7 @@ BeTheNation.Fun introduces a new type of prediction market: **perpetual, decentr
 
 Unlike traditional prediction markets where users bet on binary outcomes, BeTheNation.Fun quantifies macroeconomic predictions into tradable indices. For example, instead of predicting "Will interest rates rise?", traders can go long or short on a rate index that reflects central bank decisions. This turns policy speculation into an on-chain asset.
 
-Don’t just bet — trade the future of nations.
+Don't just bet — trade the future of nations.
 
 ---
 
@@ -71,18 +69,51 @@ BeTheNation.Fun offers:
 |--------------|------------------------------------------|
 | Frontend     | React.js, Tailwind CSS                   |
 | Smart Contracts | Solidity, foundry, Ethers.js          |
-| Blockchain   | Base / Pharos (for testnet & launch)     |
+| Blockchain   | Westend Asset Hub                        |
 | Wallet Auth  | RainbowKit, MetaMask                     |
 | Hosting      | Vercel / IPFS                            |
+
+---
+
+## 🔗 Blockchain Configuration
+
+- Network name: Westend Asset Hub
+- Default RPC URL: https://westend-asset-hub-eth-rpc.polkadot.io
+- Chain ID: 420420421
+- Currency symbol: WND
+- Block explorer URL: https://polkadot.js.org/apps
+
+---
+
+## 🛠 How to Contribute
+
+We welcome contributors to help shape the future of BeTheNation.Fun!
+
+```bash
+# 1. Fork the repository
+# 2. Create a feature branch
+git checkout -b feature/your-feature-name
+
+# 3. Implement your changes
+
+# 4. Push your branch
+git push origin feature/your-feature-name
+
+# 5. Submit a pull request
+```
 
 ---
 
 ## 🔗 Links
 
 - 🔧 GitHub: [BeTheNation Repos](https://github.com/orgs/BeTheNation/repositories)
+
 - 🌐 Website: [bethenation.fun](https://deploy-preview-23--splendid-kringle-e42657.netlify.app/)
+
 - 🛠 Hackathon: [Pharos.xyz](https://pharos.xyz)
+
 - 🎥 Demo Application: [YouTube Video](https://www.youtube.com/watch?v=IU8hBFeg4rI)
+
 - 📊 Presentation: [figma](https://www.figma.com/deck/TuHuBdAIenx2jli1vVD9TK/Slide?node-id=3-121&viewport=-3676%2C-56%2C0.56&t=JISSzZ2uydwcCkDa-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 ---
@@ -107,21 +138,3 @@ Inspired the concept of turning **non-traditional data (like social trends)** in
 
 **Relevance to BeTheNation.Fun**:  
 A strong UX/UI and clear example of decentralized prediction markets using oracles to settle markets — key inspiration for execution and structure.
-
----
-
-## 🛠 How to Contribute
-
-We welcome contributors to help shape the future of BeTheNation.Fun!
-
-```bash
-# 1. Fork the repository
-# 2. Create a feature branch
-git checkout -b feature/your-feature-name
-
-# 3. Implement your changes
-
-# 4. Push your branch
-git push origin feature/your-feature-name
-
-# 5. Submit a pull request
