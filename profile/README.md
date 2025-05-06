@@ -68,7 +68,7 @@ BeTheNation.Fun offers:
 | Layer        | Stack / Tools                            |
 |--------------|------------------------------------------|
 | Frontend     | React.js, Tailwind CSS                   |
-| Smart Contracts | Solidity, foundry, Ethers.js          |
+| Smart Contracts | Solidity, foundry, wagmi, viem        |
 | Blockchain   | Westend Asset Hub                        |
 | Wallet Auth  | RainbowKit, MetaMask                     |
 | Hosting      | Vercel / IPFS                            |
